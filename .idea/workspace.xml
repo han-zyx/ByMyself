@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e12d5f1-23fe-4310-a571-1ed2021ba8db" name="Changes" comment="" />
+    <list default="true" id="2e12d5f1-23fe-4310-a571-1ed2021ba8db" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Hansaka/Documents/GitHub/ByMyself",
+    "last_opened_file_path": "D:/HansakaWeb/web/index.html",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -57,7 +61,7 @@
       <workItem from="1679852540527" duration="460000" />
       <workItem from="1680278720531" duration="1997000" />
       <workItem from="1680326836037" duration="1306000" />
-      <workItem from="1681567577628" duration="911000" />
+      <workItem from="1681567577628" duration="3819000" />
     </task>
     <servers />
   </component>
