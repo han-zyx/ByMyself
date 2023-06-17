@@ -1,4 +1,19 @@
+
+
+
+
+
+
+
+
 .navbar-light .navbar-brand {
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.navbar-light .navbar-tag{
     color: #fff;
     font-size: 15px;
     font-weight: bold;
@@ -16,6 +31,7 @@
 .navbar-toggler {
     background: #fff;
 }
+
 
 .navbar-nav {
     text-align: center;
@@ -40,7 +56,7 @@
 }
 
 .bg-image{
-    background-image: url('bg.jpg');
+    background-image: url("../img/bg.jpg");
     background-size: cover;
     background-position: center;
     height: 100vh;
