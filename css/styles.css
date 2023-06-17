@@ -2,6 +2,16 @@
 
 
 
+:root{
+    --font-base: "melodrama";
+}
+
+@font-face {
+    font-family: melodrama;
+    src: url("../fonts/Melodrama-Regular.ttf");
+}
+
+
 
 
 
@@ -62,5 +72,36 @@
     height: 100vh;
 }
 
+.name{
+    font-family: melodrama;
+    font-size: 10rem;
+    color: white;
+    margin-bottom: -3rem !important;
+    line-height: 1;
+}
+@media (max-width: 768px) {
+    .name{
+        font-size: 4rem;
+        line-height: 1;
 
 
+    }
+
+}
+
+.position{
+
+    font-size: 2rem;
+    color: white;
+    margin-left: 50px;
+    margin-top: 25px;
+
+}
+@media (max-width: 768px) {
+    .position{
+        font-size: 1rem;
+        margin-left: 30px;
+        margin-top: 35px;
+    }
+
+}
